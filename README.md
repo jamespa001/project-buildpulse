@@ -1,3 +1,5 @@
+[![BuildPulse CI/CD Pipeline](https://github.com/jamespa001/project-buildpulse/actions/workflows/ci.yml/badge.svg)](https://github.com/jamespa001/project-buildpulse/actions/workflows/ci.yml)
+
 # 🚀 BuildPulse
 
 **BuildPulse** is a real-time health and CI monitoring dashboard engineered for developers and engineering teams to oversee workflow statuses, build durations, and pipeline reliability across multiple monitored GitHub repositories.
