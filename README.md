@@ -6,6 +6,20 @@
 
 ---
 
+## 🛠️ Engineering Highlights & Architecture
+
+- **Problem & Context:** Tracking workflow execution health, build durations, and test failures across distributed repositories can easily become fragmented without a single pane of glass.
+- **Key Technical Decisions:**
+  - Architected a high-performance **Next.js App Router** dashboard featuring optimistic pinning and responsive status filtering.
+  - Engineered deep-dive telemetry views (`/repo/[name]`) to inspect execution history and success/failure trends.
+  - Implemented strict WCAG compliant semantic landmarks, ARIA attributes, and robust keyboard navigation.
+- **Results & Metrics:**
+  - ⚡ **100 Lighthouse Accessibility** score.
+  - 🧪 **100% test coverage & passing suite** using **Vitest** and **React Testing Library**.
+  - 🚀 Production-ready CI/CD automation and containerized deployment pipelines.
+
+---
+
 ## ✨ Key Features
 
 - **Fleet Summary Dashboard**: High-level KPI banner tracking total monitored repositories, global pass rates, passing/failing workflow counts, and fleet-average build speeds.
