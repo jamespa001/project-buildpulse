@@ -45,7 +45,7 @@
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide React
 - **Testing**: Vitest, React Testing Library, jsdom
-- **Deployment**: Vercel / Google Cloud Run (Dockerized)
+- **Deployment**: Vercel
 
 ---
 
