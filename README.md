@@ -1,6 +1,9 @@
 [![BuildPulse CI/CD Pipeline](https://github.com/jamespa001/project-buildpulse/actions/workflows/ci.yml/badge.svg)](https://github.com/jamespa001/project-buildpulse/actions/workflows/ci.yml)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://project-buildpulse.vercel.app/)
 
 # 🚀 BuildPulse
+
+[**🌐 View Live Platform**](https://project-buildpulse.vercel.app/) | [**🛠️ GitHub Repository**](https://github.com/jamespa001/project-buildpulse)
 
 **BuildPulse** is a real-time health and CI monitoring dashboard engineered for developers and engineering teams to oversee workflow statuses, build durations, and pipeline reliability across multiple monitored GitHub repositories.
 
